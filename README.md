@@ -6,7 +6,7 @@ This Javascript function removes all duplicate words from a given string, leavin
 'alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta'
 ### Output:
 'alpha beta gamma delta'
-## Function Implementation
+## Solution Overview
 The `removeDuplicateWords` function takes a string as input and returns a string with duplicate words removed.
 In this function:
 * We first split the input string into an array of words using `split(' ')`
@@ -15,7 +15,7 @@ In this function:
 ## Instructions
 * Fork this repository from Github
 * Clone this repository to your local machine
-* Open files in visual studio code
+* Open files in visual studio code to view the function implementation
 ## Contributions
 Feel free to send your pull requests for any changes
 ## Contacts
